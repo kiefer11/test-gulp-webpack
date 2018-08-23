@@ -1,0 +1,10 @@
+{
+  "root": {
+    "src": "./src",
+    "dest": "./dist"
+  },
+
+  "tasks": {
+    "default": {}
+  }
+}

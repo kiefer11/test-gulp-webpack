@@ -20,6 +20,7 @@
   "homepage": "https://github.com/kiefer11/test-gulp-webpack#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "require-dir": "^1.0.0",
     "webpack": "^4.17.1",
     "webpack-stream": "^5.1.1"
   }
